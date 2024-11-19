@@ -1,7 +1,12 @@
-title: Re:Fined v4.00 - Multi-Audio Addon [KH2]
+title: Re:Fined - Japanese Audio Addon [KH2]
 originalAuthor: TopazTK
-description: The Multi-Audio Addon for Kingdom Hearts II - Re:Fined. Required for Re:Fined Audio Packs.
+description: The Japanese Audio Addon for Kingdom Hearts II - Re:Fined.
 assets:
+
+- name: remastered/obj/B_EX140.a.jp/se/obj/se320
+  method: copy
+  source:
+    - name: remastered/obj/B_EX140.a.jp/se/obj/se320
 
 # === Dual Audio - Gummi Events ===
 
