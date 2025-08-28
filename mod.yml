@@ -3,6 +3,15 @@ originalAuthor: TopazTK
 description: The Japanese Audio Addon for Kingdom Hearts II - Re:Fined.
 assets:
 
+- name: voice/jp/battle/preview_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/jp/battle/preview_sora.win32.scd
+- name: voice/jp/battle/preview_roxas.win32.scd
+  method: copy
+  source:
+  - name: voice/jp/battle/preview_roxas.win32.scd
+  
 # === Dual Audio - Gummi Events ===
 
 - name: raw/libretto/jp/wm502.bar
