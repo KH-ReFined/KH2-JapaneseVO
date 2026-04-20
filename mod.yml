@@ -94,190 +94,4721 @@ assets:
 
 # === Dual Audio - Bosses ===
 
-- name: raw/obj/N_CM000_BTL.a.jp
+- name: raw/obj/AL14_CARPET.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/N_CM000_BTL.a.jp
-- name: raw/obj/N_CM020_BTL.a.jp
+    - name: obj/AL14_CARPET.a.jp
+- name: raw/obj/AL14_PLAYER.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/N_CM020_BTL.a.jp
-- name: raw/obj/N_CM040_BTL.a.jp
-  method: copy
-  source:
-  - name: obj/N_CM040_BTL.a.jp
-- name: raw/obj/B_CA020.a.jp
-  method: copy
-  source:
-  - name: obj/B_CA020.a.jp
+    - name: obj/AL14_PLAYER.a.jp
 - name: raw/obj/B_AL020.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_AL020.a.jp
+    - name: obj/B_AL020.a.jp
+- name: raw/obj/B_AL100_FIRE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_AL100_FIRE.a.jp
+- name: raw/obj/B_AL100_ICE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_AL100_ICE.a.jp
+- name: raw/obj/B_AL110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_AL110.a.jp
+- name: raw/obj/B_AL120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_AL120.a.jp
+- name: raw/obj/B_BB100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_BB100.a.jp
+- name: raw/obj/B_BB110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_BB110.a.jp
+- name: raw/obj/B_BB120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_BB120.a.jp
+- name: raw/obj/B_BB130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_BB130.a.jp
+- name: raw/obj/B_CA000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_CA000.a.jp
 - name: raw/obj/B_CA010.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_CA010.a.jp
+    - name: obj/B_CA010.a.jp
+- name: raw/obj/B_CA020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_CA020.a.jp
 - name: raw/obj/B_CA030.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_CA030.a.jp
+    - name: obj/B_CA030.a.jp
 - name: raw/obj/B_CA040.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_CA040.a.jp
+    - name: obj/B_CA040.a.jp
+- name: raw/obj/B_CA050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_CA050.a.jp
 - name: raw/obj/B_CA060.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_CA060.a.jp
+    - name: obj/B_CA060.a.jp
+- name: raw/obj/B_EX100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX100.a.jp
 - name: raw/obj/B_EX110.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX110.a.jp
+    - name: obj/B_EX110.a.jp
 - name: raw/obj/B_EX110_FRIEND.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX110_FRIEND.a.jp
+    - name: obj/B_EX110_FRIEND.a.jp
 - name: raw/obj/B_EX110_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX110_LV99.a.jp
+    - name: obj/B_EX110_LV99.a.jp
 - name: raw/obj/B_EX110_SKIRMISH.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX110_SKIRMISH.a.jp
+    - name: obj/B_EX110_SKIRMISH.a.jp
 - name: raw/obj/B_EX120.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX120.a.jp
+    - name: obj/B_EX120.a.jp
 - name: raw/obj/B_EX120_HB.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX120_HB.a.jp
+    - name: obj/B_EX120_HB.a.jp
 - name: raw/obj/B_EX120_HB_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX120_HB_LV99.a.jp
+    - name: obj/B_EX120_HB_LV99.a.jp
 - name: raw/obj/B_EX130.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX130.a.jp
+    - name: obj/B_EX130.a.jp
 - name: raw/obj/B_EX130_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX130_LV99.a.jp
+    - name: obj/B_EX130_LV99.a.jp
 - name: raw/obj/B_EX140.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX140.a.jp
+    - name: obj/B_EX140.a.jp
 - name: raw/obj/B_EX140_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX140_LV99.a.jp
+    - name: obj/B_EX140_LV99.a.jp
 - name: raw/obj/B_EX150.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX150.a.jp
+    - name: obj/B_EX150.a.jp
 - name: raw/obj/B_EX150_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX150_LV99.a.jp
+    - name: obj/B_EX150_LV99.a.jp
 - name: raw/obj/B_EX160.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX160.a.jp
+    - name: obj/B_EX160.a.jp
 - name: raw/obj/B_EX160_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX160_LV99.a.jp
+    - name: obj/B_EX160_LV99.a.jp
 - name: raw/obj/B_EX170.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX170.a.jp
+    - name: obj/B_EX170.a.jp
 - name: raw/obj/B_EX170_LAST.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX170_LAST.a.jp
+    - name: obj/B_EX170_LAST.a.jp
 - name: raw/obj/B_EX170_LAST_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX170_LAST_LV99.a.jp
+    - name: obj/B_EX170_LAST_LV99.a.jp
 - name: raw/obj/B_EX170_LV99.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX170_LV99.a.jp
+    - name: obj/B_EX170_LV99.a.jp
 - name: raw/obj/B_EX180.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX180.a.jp
+    - name: obj/B_EX180.a.jp
+- name: raw/obj/B_EX200.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX200.a.jp
+- name: raw/obj/B_EX210.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX210.a.jp
+- name: raw/obj/B_EX210_EH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX210_EH.a.jp
+- name: raw/obj/B_EX220.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX220.a.jp
+- name: raw/obj/B_EX220_LV99.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX220_LV99.a.jp
+- name: raw/obj/B_EX230.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX230.a.jp
+- name: raw/obj/B_EX240.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX240.a.jp
+- name: raw/obj/B_EX250.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX250.a.jp
 - name: raw/obj/B_EX260.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX260.a.jp
+    - name: obj/B_EX260.a.jp
+- name: raw/obj/B_EX270_SIDECAR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX270_SIDECAR.a.jp
+- name: raw/obj/B_EX280.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX280.a.jp
+- name: raw/obj/B_EX290.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX290.a.jp
+- name: raw/obj/B_EX300.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX300.a.jp
+- name: raw/obj/B_EX310.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX310.a.jp
+- name: raw/obj/B_EX320.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX320.a.jp
+- name: raw/obj/B_EX330.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX330.a.jp
+- name: raw/obj/B_EX340.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX340.a.jp
+- name: raw/obj/B_EX350.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX350.a.jp
 - name: raw/obj/B_EX370.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX370.a.jp
+    - name: obj/B_EX370.a.jp
+- name: raw/obj/B_EX380.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX380.a.jp
 - name: raw/obj/B_EX390.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX390.a.jp
+    - name: obj/B_EX390.a.jp
 - name: raw/obj/B_EX400.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX400.a.jp
+    - name: obj/B_EX400.a.jp
+- name: raw/obj/B_EX410.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_EX410.a.jp
 - name: raw/obj/B_EX420.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_EX420.a.jp
+    - name: obj/B_EX420.a.jp
+- name: raw/obj/B_HE020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_HE020.a.jp
 - name: raw/obj/B_HE030.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_HE030.a.jp
+    - name: obj/B_HE030.a.jp
 - name: raw/obj/B_HE030_CLSM.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_HE030_CLSM.a.jp
+    - name: obj/B_HE030_CLSM.a.jp
 - name: raw/obj/B_HE030_HE05.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_HE030_HE05.a.jp
+    - name: obj/B_HE030_HE05.a.jp
 - name: raw/obj/B_HE030_PART.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_HE030_PART.a.jp
+    - name: obj/B_HE030_PART.a.jp
+- name: raw/obj/B_HE100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_HE100.a.jp
+- name: raw/obj/B_HE110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_HE110.a.jp
 - name: raw/obj/B_LK100.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_LK100.a.jp
+    - name: obj/B_LK100.a.jp
 - name: raw/obj/B_LK100_00.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_LK100_00.a.jp
+    - name: obj/B_LK100_00.a.jp
 - name: raw/obj/B_LK100_10.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_LK100_10.a.jp
+    - name: obj/B_LK100_10.a.jp
 - name: raw/obj/B_LK100_20.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_LK100_20.a.jp
+    - name: obj/B_LK100_20.a.jp
 - name: raw/obj/B_LK110.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_LK110.a.jp
+    - name: obj/B_LK110.a.jp
+- name: raw/obj/B_LK110_PHANTOM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_LK110_PHANTOM.a.jp
+- name: raw/obj/B_LK120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_LK120.a.jp
 - name: raw/obj/B_MU100.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_MU100.a.jp
+    - name: obj/B_MU100.a.jp
+- name: raw/obj/B_MU110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_MU110.a.jp
+- name: raw/obj/B_MU120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_MU120.a.jp
+- name: raw/obj/B_MU130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_MU130.a.jp
 - name: raw/obj/B_NM000.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_NM000.a.jp
+    - name: obj/B_NM000.a.jp
+- name: raw/obj/B_NM100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_NM100.a.jp
+- name: raw/obj/B_NM110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_NM110.a.jp
+- name: raw/obj/B_NM110_HEAD.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_NM110_HEAD.a.jp
+- name: raw/obj/B_NM110_L_ARM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_NM110_L_ARM.a.jp
+- name: raw/obj/B_NM110_R_ARM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_NM110_R_ARM.a.jp
+- name: raw/obj/B_TR000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/B_TR000.a.jp
 - name: raw/obj/B_TR020.a.jp
+  package: kh2_first
   method: copy
   source:
-  - name: obj/B_TR020.a.jp
+    - name: obj/B_TR020.a.jp
+- name: raw/obj/EH_G_EX120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/EH_G_EX120.a.jp
+- name: raw/obj/EH_G_EX250.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/EH_G_EX250.a.jp
+- name: raw/obj/EH_G_EX250_FLY.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/EH_G_EX250_FLY.a.jp
+- name: raw/obj/EH_G_EX290.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/EH_G_EX290.a.jp
+- name: raw/obj/EH_G_EX320.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/EH_G_EX320.a.jp
+- name: raw/obj/F_AL000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL000.a.jp
+- name: raw/obj/F_AL010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL010.a.jp
+- name: raw/obj/F_AL030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL030.a.jp
+- name: raw/obj/F_AL050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL050.a.jp
+- name: raw/obj/F_AL070_BLIZZARD.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL070_BLIZZARD.a.jp
+- name: raw/obj/F_AL070_FIRE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL070_FIRE.a.jp
+- name: raw/obj/F_AL070_THUNDER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL070_THUNDER.a.jp
+- name: raw/obj/F_AL090_01.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL090_01.a.jp
+- name: raw/obj/F_AL090_02.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL090_02.a.jp
+- name: raw/obj/F_AL090_03.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL090_03.a.jp
+- name: raw/obj/F_AL100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL100.a.jp
+- name: raw/obj/F_AL110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL110.a.jp
+- name: raw/obj/F_AL140.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL140.a.jp
+- name: raw/obj/F_AL150.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL150.a.jp
+- name: raw/obj/F_AL160.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL160.a.jp
+- name: raw/obj/F_AL170.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_AL170.a.jp
+- name: raw/obj/F_BB000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB000.a.jp
+- name: raw/obj/F_BB010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB010.a.jp
+- name: raw/obj/F_BB020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB020.a.jp
+- name: raw/obj/F_BB030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB030.a.jp
+- name: raw/obj/F_BB040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB040.a.jp
+- name: raw/obj/F_BB050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB050.a.jp
+- name: raw/obj/F_BB060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB060.a.jp
+- name: raw/obj/F_BB070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB070.a.jp
+- name: raw/obj/F_BB080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB080.a.jp
+- name: raw/obj/F_BB090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB090.a.jp
+- name: raw/obj/F_BB100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB100.a.jp
+- name: raw/obj/F_BB120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB120.a.jp
+- name: raw/obj/F_BB130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_BB130.a.jp
+- name: raw/obj/F_CA000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA000.a.jp
+- name: raw/obj/F_CA010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA010.a.jp
+- name: raw/obj/F_CA030_DARK.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA030_DARK.a.jp
+- name: raw/obj/F_CA030_LIGHT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA030_LIGHT.a.jp
+- name: raw/obj/F_CA040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA040.a.jp
+- name: raw/obj/F_CA050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA050.a.jp
+- name: raw/obj/F_CA060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA060.a.jp
+- name: raw/obj/F_CA060_MEDAL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA060_MEDAL.a.jp
+- name: raw/obj/F_CA690_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_CA690_BTL.a.jp
+- name: raw/obj/F_EH050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EH050.a.jp
+- name: raw/obj/F_EH060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EH060.a.jp
+- name: raw/obj/F_EH070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EH070.a.jp
+- name: raw/obj/F_EH080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EH080.a.jp
+- name: raw/obj/F_EH100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EH100.a.jp
+- name: raw/obj/F_EH110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EH110.a.jp
+- name: raw/obj/F_EX030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030.a.jp
+- name: raw/obj/F_EX030_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_AL.a.jp
+- name: raw/obj/F_EX030_BB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_BB.a.jp
+- name: raw/obj/F_EX030_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_CA.a.jp
+- name: raw/obj/F_EX030_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_DC.a.jp
+- name: raw/obj/F_EX030_EH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_EH.a.jp
+- name: raw/obj/F_EX030_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_HB.a.jp
+- name: raw/obj/F_EX030_HE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_HE.a.jp
+- name: raw/obj/F_EX030_MU.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_MU.a.jp
+- name: raw/obj/F_EX030_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_NM.a.jp
+- name: raw/obj/F_EX030_NM_XMAS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_NM_XMAS.a.jp
+- name: raw/obj/F_EX030_PO.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_PO.a.jp
+- name: raw/obj/F_EX030_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_TR.a.jp
+- name: raw/obj/F_EX030_TT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_TT.a.jp
+- name: raw/obj/F_EX030_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX030_WI.a.jp
+- name: raw/obj/F_EX040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040.a.jp
+- name: raw/obj/F_EX040_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_AL.a.jp
+- name: raw/obj/F_EX040_BB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_BB.a.jp
+- name: raw/obj/F_EX040_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_CA.a.jp
+- name: raw/obj/F_EX040_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_DC.a.jp
+- name: raw/obj/F_EX040_EH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_EH.a.jp
+- name: raw/obj/F_EX040_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_HB.a.jp
+- name: raw/obj/F_EX040_HE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_HE.a.jp
+- name: raw/obj/F_EX040_MU.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_MU.a.jp
+- name: raw/obj/F_EX040_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_NM.a.jp
+- name: raw/obj/F_EX040_NM_XMAS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_NM_XMAS.a.jp
+- name: raw/obj/F_EX040_PO.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_PO.a.jp
+- name: raw/obj/F_EX040_SPARROW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_SPARROW.a.jp
+- name: raw/obj/F_EX040_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_TR.a.jp
+- name: raw/obj/F_EX040_TT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_TT.a.jp
+- name: raw/obj/F_EX040_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX040_WI.a.jp
+- name: raw/obj/F_EX050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX050.a.jp
+- name: raw/obj/F_EX060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX060.a.jp
+- name: raw/obj/F_EX210.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX210.a.jp
+- name: raw/obj/F_EX220.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX220.a.jp
+- name: raw/obj/F_EX230.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX230.a.jp
+- name: raw/obj/F_EX240.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX240.a.jp
+- name: raw/obj/F_EX250.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX250.a.jp
+- name: raw/obj/F_EX260.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_EX260.a.jp
+- name: raw/obj/F_HB020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB020.a.jp
+- name: raw/obj/F_HB030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB030.a.jp
+- name: raw/obj/F_HB040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB040.a.jp
+- name: raw/obj/F_HB040_BL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB040_BL.a.jp
+- name: raw/obj/F_HB040_WH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB040_WH.a.jp
+- name: raw/obj/F_HB040_YE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB040_YE.a.jp
+- name: raw/obj/F_HB050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB050.a.jp
+- name: raw/obj/F_HB050_23.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB050_23.a.jp
+- name: raw/obj/F_HB060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB060.a.jp
+- name: raw/obj/F_HB070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB070.a.jp
+- name: raw/obj/F_HB080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB080.a.jp
+- name: raw/obj/F_HB090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB090.a.jp
+- name: raw/obj/F_HB100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB100.a.jp
+- name: raw/obj/F_HB140.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HB140.a.jp
+- name: raw/obj/F_HE000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE000.a.jp
+- name: raw/obj/F_HE010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE010.a.jp
+- name: raw/obj/F_HE020_A1.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_A1.a.jp
+- name: raw/obj/F_HE020_A2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_A2.a.jp
+- name: raw/obj/F_HE020_B1.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_B1.a.jp
+- name: raw/obj/F_HE020_B2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_B2.a.jp
+- name: raw/obj/F_HE020_C1.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_C1.a.jp
+- name: raw/obj/F_HE020_C2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_C2.a.jp
+- name: raw/obj/F_HE020_PETE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_PETE.a.jp
+- name: raw/obj/F_HE020_PO.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE020_PO.a.jp
+- name: raw/obj/F_HE030_L.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE030_L.a.jp
+- name: raw/obj/F_HE030_L_FREE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE030_L_FREE.a.jp
+- name: raw/obj/F_HE030_S.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE030_S.a.jp
+- name: raw/obj/F_HE030_S_FREE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE030_S_FREE.a.jp
+- name: raw/obj/F_HE090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE090.a.jp
+- name: raw/obj/F_HE110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_HE110.a.jp
+- name: raw/obj/F_MU000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU000.a.jp
+- name: raw/obj/F_MU010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU010.a.jp
+- name: raw/obj/F_MU020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU020.a.jp
+- name: raw/obj/F_MU030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU030.a.jp
+- name: raw/obj/F_MU040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU040.a.jp
+- name: raw/obj/F_MU050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU050.a.jp
+- name: raw/obj/F_MU060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU060.a.jp
+- name: raw/obj/F_MU070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU070.a.jp
+- name: raw/obj/F_MU070_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU070_BOSS.a.jp
+- name: raw/obj/F_MU080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU080.a.jp
+- name: raw/obj/F_MU090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU090.a.jp
+- name: raw/obj/F_MU100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU100.a.jp
+- name: raw/obj/F_MU100_SHANG.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU100_SHANG.a.jp
+- name: raw/obj/F_MU100_TOWER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_MU100_TOWER.a.jp
+- name: raw/obj/F_NM000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM000.a.jp
+- name: raw/obj/F_NM010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM010.a.jp
+- name: raw/obj/F_NM020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM020.a.jp
+- name: raw/obj/F_NM030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM030.a.jp
+- name: raw/obj/F_NM040_00.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM040_00.a.jp
+- name: raw/obj/F_NM040_10.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM040_10.a.jp
+- name: raw/obj/F_NM050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM050.a.jp
+- name: raw/obj/F_NM070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM070.a.jp
+- name: raw/obj/F_NM080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM080.a.jp
+- name: raw/obj/F_NM090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM090.a.jp
+- name: raw/obj/F_NM100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM100.a.jp
+- name: raw/obj/F_NM110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM110.a.jp
+- name: raw/obj/F_NM120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM120.a.jp
+- name: raw/obj/F_NM130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM130.a.jp
+- name: raw/obj/F_NM170_CATCH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM170_CATCH.a.jp
+- name: raw/obj/F_NM170_L.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM170_L.a.jp
+- name: raw/obj/F_NM170_M.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM170_M.a.jp
+- name: raw/obj/F_NM170_S.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM170_S.a.jp
+- name: raw/obj/F_NM170_XL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM170_XL.a.jp
+- name: raw/obj/F_NM180.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_NM180.a.jp
+- name: raw/obj/F_PO030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_PO030.a.jp
+- name: raw/obj/F_PO080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_PO080.a.jp
+- name: raw/obj/F_PO090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_PO090.a.jp
+- name: raw/obj/F_PO090_ETC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_PO090_ETC.a.jp
+- name: raw/obj/F_PO090_TT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_PO090_TT.a.jp
+- name: raw/obj/F_TR010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR010.a.jp
+- name: raw/obj/F_TR020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR020.a.jp
+- name: raw/obj/F_TR030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR030.a.jp
+- name: raw/obj/F_TR050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR050.a.jp
+- name: raw/obj/F_TR060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR060.a.jp
+- name: raw/obj/F_TR080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR080.a.jp
+- name: raw/obj/F_TR090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR090.a.jp
+- name: raw/obj/F_TR100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR100.a.jp
+- name: raw/obj/F_TR110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR110.a.jp
+- name: raw/obj/F_TR120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR120.a.jp
+- name: raw/obj/F_TR130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR130.a.jp
+- name: raw/obj/F_TR140.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR140.a.jp
+- name: raw/obj/F_TR150.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR150.a.jp
+- name: raw/obj/F_TR160.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR160.a.jp
+- name: raw/obj/F_TR170.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TR170.a.jp
+- name: raw/obj/F_TT000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT000.a.jp
+- name: raw/obj/F_TT010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010.a.jp
+- name: raw/obj/F_TT010_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_AL.a.jp
+- name: raw/obj/F_TT010_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_CA.a.jp
+- name: raw/obj/F_TT010_HE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_HE.a.jp
+- name: raw/obj/F_TT010_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_NM.a.jp
+- name: raw/obj/F_TT010_SORA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_SORA.a.jp
+- name: raw/obj/F_TT010_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_TR.a.jp
+- name: raw/obj/F_TT010_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT010_WI.a.jp
+- name: raw/obj/F_TT020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT020.a.jp
+- name: raw/obj/F_TT030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT030.a.jp
+- name: raw/obj/F_TT030_ETC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT030_ETC.a.jp
+- name: raw/obj/F_TT040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT040.a.jp
+- name: raw/obj/F_TT060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT060.a.jp
+- name: raw/obj/F_TT070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT070.a.jp
+- name: raw/obj/F_TT110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT110.a.jp
+- name: raw/obj/F_TT110_FREE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT110_FREE.a.jp
+- name: raw/obj/F_TT120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT120.a.jp
+- name: raw/obj/F_TT130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT130.a.jp
+- name: raw/obj/F_TT170.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_TT170.a.jp
+- name: raw/obj/F_WI000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI000.a.jp
+- name: raw/obj/F_WI010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI010.a.jp
+- name: raw/obj/F_WI010_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI010_BOSS.a.jp
+- name: raw/obj/F_WI020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI020.a.jp
+- name: raw/obj/F_WI020_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI020_BOSS.a.jp
+- name: raw/obj/F_WI060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI060.a.jp
+- name: raw/obj/F_WI060_PETE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI060_PETE.a.jp
+- name: raw/obj/F_WI310.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI310.a.jp
+- name: raw/obj/F_WI320.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI320.a.jp
+- name: raw/obj/F_WI330.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI330.a.jp
+- name: raw/obj/F_WI340.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI340.a.jp
+- name: raw/obj/F_WI350.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI350.a.jp
+- name: raw/obj/F_WI360.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI360.a.jp
+- name: raw/obj/F_WI360_PETE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI360_PETE.a.jp
+- name: raw/obj/F_WI380.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI380.a.jp
+- name: raw/obj/F_WI380_RTN.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI380_RTN.a.jp
+- name: raw/obj/F_WI400.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI400.a.jp
+- name: raw/obj/F_WI410.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI410.a.jp
+- name: raw/obj/F_WI420.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/F_WI420.a.jp
+- name: raw/obj/G_EB110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EB110.a.jp
+- name: raw/obj/G_EC127.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EC127.a.jp
+- name: raw/obj/G_EC129.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EC129.a.jp
+- name: raw/obj/G_ED110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_ED110.a.jp
+- name: raw/obj/G_EX100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX100.a.jp
+- name: raw/obj/G_EX110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX110.a.jp
+- name: raw/obj/G_EX120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX120.a.jp
+- name: raw/obj/G_EX220.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX220.a.jp
+- name: raw/obj/G_EX220_G.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX220_G.a.jp
+- name: raw/obj/G_EX220_R.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX220_R.a.jp
+- name: raw/obj/G_EX250_0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX250_0.a.jp
+- name: raw/obj/G_EX250_0_G.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX250_0_G.a.jp
+- name: raw/obj/G_EX250_0_R.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX250_0_R.a.jp
+- name: raw/obj/G_EX900.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX900.a.jp
+- name: raw/obj/G_EX900_COMBAT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX900_COMBAT.a.jp
+- name: raw/obj/G_EX900_COMBAT_HARD.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX900_COMBAT_HARD.a.jp
+- name: raw/obj/G_EX900_FINAL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX900_FINAL.a.jp
+- name: raw/obj/G_EX910.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX910.a.jp
+- name: raw/obj/G_EX920.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_EX920.a.jp
+- name: raw/obj/G_OE140.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_OE140.a.jp
+- name: raw/obj/G_OE150.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_OE150.a.jp
+- name: raw/obj/G_OE160.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_OE160.a.jp
+- name: raw/obj/G_OE170.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/G_OE170.a.jp
+- name: raw/obj/M_AL020_FIRE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_AL020_FIRE.a.jp
+- name: raw/obj/M_AL020_FIRE2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_AL020_FIRE2.a.jp
+- name: raw/obj/M_AL020_FIRE_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_AL020_FIRE_RAW.a.jp
+- name: raw/obj/M_AL020_ICEE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_AL020_ICEE.a.jp
+- name: raw/obj/M_AL020_ICEE2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_AL020_ICEE2.a.jp
+- name: raw/obj/M_AL020_ICEE_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_AL020_ICEE_RAW.a.jp
+- name: raw/obj/M_BB010_AX.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_BB010_AX.a.jp
+- name: raw/obj/M_BB010_SWORD.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_BB010_SWORD.a.jp
+- name: raw/obj/M_EX010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX010.a.jp
+- name: raw/obj/M_EX010_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX010_NM.a.jp
+- name: raw/obj/M_EX010_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX010_TR.a.jp
+- name: raw/obj/M_EX010_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX010_WI.a.jp
+- name: raw/obj/M_EX020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX020.a.jp
+- name: raw/obj/M_EX020_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX020_NM.a.jp
+- name: raw/obj/M_EX020_NM_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX020_NM_RAW.a.jp
+- name: raw/obj/M_EX020_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX020_RAW.a.jp
+- name: raw/obj/M_EX020_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX020_WI.a.jp
+- name: raw/obj/M_EX020_WI_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX020_WI_RAW.a.jp
+- name: raw/obj/M_EX050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX050.a.jp
+- name: raw/obj/M_EX050_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX050_WI.a.jp
+- name: raw/obj/M_EX060.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX060.a.jp
+- name: raw/obj/M_EX110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX110.a.jp
+- name: raw/obj/M_EX120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX120.a.jp
+- name: raw/obj/M_EX120_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX120_HB.a.jp
+- name: raw/obj/M_EX120_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX120_NM.a.jp
+- name: raw/obj/M_EX120_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX120_TR.a.jp
+- name: raw/obj/M_EX130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX130.a.jp
+- name: raw/obj/M_EX130_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX130_AL.a.jp
+- name: raw/obj/M_EX200.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX200.a.jp
+- name: raw/obj/M_EX200_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX200_NM.a.jp
+- name: raw/obj/M_EX210.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX210.a.jp
+- name: raw/obj/M_EX210_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX210_HB.a.jp
+- name: raw/obj/M_EX350_01.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_01.a.jp
+- name: raw/obj/M_EX350_02.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_02.a.jp
+- name: raw/obj/M_EX350_03.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_03.a.jp
+- name: raw/obj/M_EX350_04.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_04.a.jp
+- name: raw/obj/M_EX350_05.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_05.a.jp
+- name: raw/obj/M_EX350_06.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_06.a.jp
+- name: raw/obj/M_EX350_06_SU.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_06_SU.a.jp
+- name: raw/obj/M_EX350_07.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_07.a.jp
+- name: raw/obj/M_EX350_08.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_08.a.jp
+- name: raw/obj/M_EX350_09.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_09.a.jp
+- name: raw/obj/M_EX350_10.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_10.a.jp
+- name: raw/obj/M_EX350_11.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_11.a.jp
+- name: raw/obj/M_EX350_12.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_12.a.jp
+- name: raw/obj/M_EX350_13.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX350_13.a.jp
+- name: raw/obj/M_EX420.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX420.a.jp
+- name: raw/obj/M_EX420_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX420_NM.a.jp
+- name: raw/obj/M_EX500.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX500.a.jp
+- name: raw/obj/M_EX500_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX500_HB.a.jp
+- name: raw/obj/M_EX500_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX500_NM.a.jp
+- name: raw/obj/M_EX510.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX510.a.jp
+- name: raw/obj/M_EX520.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX520.a.jp
+- name: raw/obj/M_EX520_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX520_AL.a.jp
+- name: raw/obj/M_EX520_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX520_HB.a.jp
+- name: raw/obj/M_EX530.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX530.a.jp
+- name: raw/obj/M_EX530_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX530_HB.a.jp
+- name: raw/obj/M_EX530_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX530_TR.a.jp
+- name: raw/obj/M_EX540.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX540.a.jp
+- name: raw/obj/M_EX540_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX540_WI.a.jp
+- name: raw/obj/M_EX550.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX550.a.jp
+- name: raw/obj/M_EX550_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX550_WI.a.jp
+- name: raw/obj/M_EX560.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX560.a.jp
+- name: raw/obj/M_EX560_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX560_HB.a.jp
+- name: raw/obj/M_EX560_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX560_WI.a.jp
+- name: raw/obj/M_EX570.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX570.a.jp
+- name: raw/obj/M_EX580.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX580.a.jp
+- name: raw/obj/M_EX590.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX590.a.jp
+- name: raw/obj/M_EX590_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX590_NM.a.jp
+- name: raw/obj/M_EX600.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX600.a.jp
+- name: raw/obj/M_EX600_LC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX600_LC.a.jp
+- name: raw/obj/M_EX600_LC_ATK.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX600_LC_ATK.a.jp
+- name: raw/obj/M_EX600_LC_CHG.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX600_LC_CHG.a.jp
+- name: raw/obj/M_EX600_LC_GRD.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX600_LC_GRD.a.jp
+- name: raw/obj/M_EX610.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX610.a.jp
+- name: raw/obj/M_EX610_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX610_RAW.a.jp
+- name: raw/obj/M_EX620.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX620.a.jp
+- name: raw/obj/M_EX620_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX620_AL.a.jp
+- name: raw/obj/M_EX630.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX630.a.jp
+- name: raw/obj/M_EX640.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX640.a.jp
+- name: raw/obj/M_EX640_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX640_HB.a.jp
+- name: raw/obj/M_EX640_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX640_WI.a.jp
+- name: raw/obj/M_EX650.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX650.a.jp
+- name: raw/obj/M_EX650_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX650_HB.a.jp
+- name: raw/obj/M_EX650_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX650_TR.a.jp
+- name: raw/obj/M_EX660.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX660.a.jp
+- name: raw/obj/M_EX660_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX660_AL.a.jp
+- name: raw/obj/M_EX660_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX660_RAW.a.jp
+- name: raw/obj/M_EX660_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX660_WI.a.jp
+- name: raw/obj/M_EX670.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX670.a.jp
+- name: raw/obj/M_EX680.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX680.a.jp
+- name: raw/obj/M_EX680_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX680_HB.a.jp
+- name: raw/obj/M_EX690.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX690.a.jp
+- name: raw/obj/M_EX690_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX690_HB.a.jp
+- name: raw/obj/M_EX700.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX700.a.jp
+- name: raw/obj/M_EX700_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX700_NM.a.jp
+- name: raw/obj/M_EX710.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX710.a.jp
+- name: raw/obj/M_EX720.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX720.a.jp
+- name: raw/obj/M_EX720_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX720_HB.a.jp
+- name: raw/obj/M_EX730.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX730.a.jp
+- name: raw/obj/M_EX740.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX740.a.jp
+- name: raw/obj/M_EX750.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX750.a.jp
+- name: raw/obj/M_EX750_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX750_NM.a.jp
+- name: raw/obj/M_EX760.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX760.a.jp
+- name: raw/obj/M_EX760_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX760_NM.a.jp
+- name: raw/obj/M_EX760_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX760_RAW.a.jp
+- name: raw/obj/M_EX770.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX770.a.jp
+- name: raw/obj/M_EX770_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX770_RAW.a.jp
+- name: raw/obj/M_EX770_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX770_TR.a.jp
+- name: raw/obj/M_EX780.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX780.a.jp
+- name: raw/obj/M_EX780_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX780_HB.a.jp
+- name: raw/obj/M_EX790.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX790.a.jp
+- name: raw/obj/M_EX790_CHRISTMAS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX790_CHRISTMAS.a.jp
+- name: raw/obj/M_EX790_CHRISTMAS_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX790_CHRISTMAS_NM.a.jp
+- name: raw/obj/M_EX790_HALLOWEEN.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX790_HALLOWEEN.a.jp
+- name: raw/obj/M_EX790_HALLOWEEN_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX790_HALLOWEEN_NM.a.jp
+- name: raw/obj/M_EX800.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX800.a.jp
+- name: raw/obj/M_EX800_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX800_DC.a.jp
+- name: raw/obj/M_EX800_MU.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX800_MU.a.jp
+- name: raw/obj/M_EX800_MU_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX800_MU_RAW.a.jp
+- name: raw/obj/M_EX800_RAW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX800_RAW.a.jp
+- name: raw/obj/M_EX850.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX850.a.jp
+- name: raw/obj/M_EX870.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX870.a.jp
+- name: raw/obj/M_EX880.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX880.a.jp
+- name: raw/obj/M_EX880_DANCER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX880_DANCER.a.jp
+- name: raw/obj/M_EX880_DANCER_EH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX880_DANCER_EH.a.jp
+- name: raw/obj/M_EX880_DANCER_LV99.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX880_DANCER_LV99.a.jp
+- name: raw/obj/M_EX890.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX890.a.jp
+- name: raw/obj/M_EX900.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX900.a.jp
+- name: raw/obj/M_EX910.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX910.a.jp
+- name: raw/obj/M_EX920.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX920.a.jp
+- name: raw/obj/M_EX930.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX930.a.jp
+- name: raw/obj/M_EX940.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX940.a.jp
+- name: raw/obj/M_EX950.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX950.a.jp
+- name: raw/obj/M_EX950_CARD.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX950_CARD.a.jp
+- name: raw/obj/M_EX950_DICE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX950_DICE.a.jp
+- name: raw/obj/M_EX960.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX960.a.jp
+- name: raw/obj/M_EX990.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/M_EX990.a.jp
+- name: raw/obj/N_AL010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_AL010_BTL.a.jp
+- name: raw/obj/N_AL070_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_AL070_BTL.a.jp
+- name: raw/obj/N_AL090_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_AL090_BTL.a.jp
+- name: raw/obj/N_BB050_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_BB050_BTL.a.jp
+- name: raw/obj/N_BB060_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_BB060_BTL.a.jp
+- name: raw/obj/N_BB060_TSURU.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_BB060_TSURU.a.jp
+- name: raw/obj/N_BB070_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_BB070_BTL.a.jp
+- name: raw/obj/N_BB080_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_BB080_BTL.a.jp
+- name: raw/obj/N_CM000_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_CM000_BTL.a.jp
+- name: raw/obj/N_CM020_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_CM020_BTL.a.jp
+- name: raw/obj/N_CM040_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_CM040_BTL.a.jp
+- name: raw/obj/N_DC010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_DC010_BTL.a.jp
+- name: raw/obj/N_EX500_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX500_BTL.a.jp
+- name: raw/obj/N_EX570_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX570_BTL.a.jp
+- name: raw/obj/N_EX600_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX600_BTL.a.jp
+- name: raw/obj/N_EX610_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX610_BTL.a.jp
+- name: raw/obj/N_EX610_BTL2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX610_BTL2.a.jp
+- name: raw/obj/N_EX650_BTL1.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX650_BTL1.a.jp
+- name: raw/obj/N_EX680_BTL10.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX680_BTL10.a.jp
+- name: raw/obj/N_EX760_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX760_BTL.a.jp
+- name: raw/obj/N_EX760_BTL_CLSM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX760_BTL_CLSM.a.jp
+- name: raw/obj/N_EX760_BTL_HERCULES.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX760_BTL_HERCULES.a.jp
+- name: raw/obj/N_EX760_BTL_MEGARA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX760_BTL_MEGARA.a.jp
+- name: raw/obj/N_EX760_BTL_WILLY.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX760_BTL_WILLY.a.jp
+- name: raw/obj/N_EX940_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_EX940_BTL.a.jp
+- name: raw/obj/N_HB040_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB040_BTL.a.jp
+- name: raw/obj/N_HB530_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB530_BOSS.a.jp
+- name: raw/obj/N_HB530_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB530_BTL.a.jp
+- name: raw/obj/N_HB530_BTL2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB530_BTL2.a.jp
+- name: raw/obj/N_HB550_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB550_BOSS.a.jp
+- name: raw/obj/N_HB550_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB550_BTL.a.jp
+- name: raw/obj/N_HB550_BTL2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB550_BTL2.a.jp
+- name: raw/obj/N_HB570_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB570_BOSS.a.jp
+- name: raw/obj/N_HB570_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB570_BTL.a.jp
+- name: raw/obj/N_HB570_BTL2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB570_BTL2.a.jp
+- name: raw/obj/N_HB580_BOSS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB580_BOSS.a.jp
+- name: raw/obj/N_HB580_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB580_BTL.a.jp
+- name: raw/obj/N_HB580_BTL2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB580_BTL2.a.jp
+- name: raw/obj/N_HB590_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB590_BTL.a.jp
+- name: raw/obj/N_HB630.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HB630.a.jp
+- name: raw/obj/N_HE010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HE010_BTL.a.jp
+- name: raw/obj/N_HE010_BTL_CLSM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HE010_BTL_CLSM.a.jp
+- name: raw/obj/N_HE020_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HE020_BTL.a.jp
+- name: raw/obj/N_HE030_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HE030_BTL.a.jp
+- name: raw/obj/N_HE030_BTL_DEF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_HE030_BTL_DEF.a.jp
+- name: raw/obj/N_LK010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_LK010_BTL.a.jp
+- name: raw/obj/N_LK020_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_LK020_BTL.a.jp
+- name: raw/obj/N_NM050_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM050_BTL.a.jp
+- name: raw/obj/N_NM050_BTL_2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM050_BTL_2.a.jp
+- name: raw/obj/N_NM050_BTL_TOY.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM050_BTL_TOY.a.jp
+- name: raw/obj/N_NM060_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM060_BTL.a.jp
+- name: raw/obj/N_NM060_BTL_2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM060_BTL_2.a.jp
+- name: raw/obj/N_NM060_BTL_TOY.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM060_BTL_TOY.a.jp
+- name: raw/obj/N_NM070_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM070_BTL.a.jp
+- name: raw/obj/N_NM070_BTL_2.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM070_BTL_2.a.jp
+- name: raw/obj/N_NM070_BTL_TOY.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_NM070_BTL_TOY.a.jp
+- name: raw/obj/N_PO010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_PO010_BTL.a.jp
+- name: raw/obj/N_PO020_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_PO020_BTL.a.jp
+- name: raw/obj/N_PO030_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_PO030_BTL.a.jp
+- name: raw/obj/N_PO040_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_PO040_BTL.a.jp
+- name: raw/obj/N_PO070_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_PO070_BTL.a.jp
+- name: raw/obj/N_TR010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_TR010_BTL.a.jp
+- name: raw/obj/N_TR010_BTL_L.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_TR010_BTL_L.a.jp
+- name: raw/obj/N_WI010_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_WI010_BTL.a.jp
+- name: raw/obj/N_WI010_BTL_VS.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/N_WI010_BTL_VS.a.jp
+- name: raw/obj/PO06_F_PO010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_F_PO010.a.jp
+- name: raw/obj/PO06_F_PO020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_F_PO020.a.jp
+- name: raw/obj/PO06_F_PO040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_F_PO040.a.jp
+- name: raw/obj/PO06_F_PO050.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_F_PO050.a.jp
+- name: raw/obj/PO06_F_PO080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_F_PO080.a.jp
+- name: raw/obj/PO06_N_PO010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_N_PO010.a.jp
+- name: raw/obj/PO06_N_PO030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_N_PO030.a.jp
+- name: raw/obj/PO06_PLAYER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO06_PLAYER.a.jp
+- name: raw/obj/PO07_F_PO040.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_F_PO040.a.jp
+- name: raw/obj/PO07_F_PO060_S.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_F_PO060_S.a.jp
+- name: raw/obj/PO07_F_PO070_L.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_F_PO070_L.a.jp
+- name: raw/obj/PO07_F_PO070_M.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_F_PO070_M.a.jp
+- name: raw/obj/PO07_F_PO080.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_F_PO080.a.jp
+- name: raw/obj/PO07_N_PO010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_N_PO010.a.jp
+- name: raw/obj/PO07_N_PO090.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_N_PO090.a.jp
+- name: raw/obj/PO07_PLAYER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO07_PLAYER.a.jp
+- name: raw/obj/PO08_F_PO060_L.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_F_PO060_L.a.jp
+- name: raw/obj/PO08_F_PO060_M.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_F_PO060_M.a.jp
+- name: raw/obj/PO08_F_PO060_S.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_F_PO060_S.a.jp
+- name: raw/obj/PO08_F_PO060_X.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_F_PO060_X.a.jp
+- name: raw/obj/PO08_N_PO010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_N_PO010.a.jp
+- name: raw/obj/PO08_N_PO020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_N_PO020.a.jp
+- name: raw/obj/PO08_N_PO070.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_N_PO070.a.jp
+- name: raw/obj/PO08_PLAYER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/PO08_PLAYER.a.jp
+- name: raw/obj/P_AL000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_AL000.a.jp
+- name: raw/obj/P_AL010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_AL010.a.jp
+- name: raw/obj/P_BB000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_BB000.a.jp
+- name: raw/obj/P_BB000_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_BB000_BTL.a.jp
+- name: raw/obj/P_CA000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_CA000.a.jp
+- name: raw/obj/P_CA000_HUMAN.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_CA000_HUMAN.a.jp
+- name: raw/obj/P_CA000_HUMAN_LOW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_CA000_HUMAN_LOW.a.jp
+- name: raw/obj/P_CA000_LOW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_CA000_LOW.a.jp
+- name: raw/obj/P_EH000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EH000.a.jp
+- name: raw/obj/P_EH000_LAST.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EH000_LAST.a.jp
+- name: raw/obj/P_EH000_SIDECAR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EH000_SIDECAR.a.jp
+- name: raw/obj/P_EH010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EH010.a.jp
+- name: raw/obj/P_EX020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020.a.jp
+- name: raw/obj/P_EX020_CM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_CM.a.jp
+- name: raw/obj/P_EX020_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_DC.a.jp
+- name: raw/obj/P_EX020_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_NM.a.jp
+- name: raw/obj/P_EX020_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_TR.a.jp
+- name: raw/obj/P_EX020_XM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_XM.a.jp
+- name: raw/obj/P_EX030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030.a.jp
+- name: raw/obj/P_EX030_CM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_CM.a.jp
+- name: raw/obj/P_EX030_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_DC.a.jp
+- name: raw/obj/P_EX030_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_NM.a.jp
+- name: raw/obj/P_EX030_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_TR.a.jp
+- name: raw/obj/P_EX030_XM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_XM.a.jp
+- name: raw/obj/P_EX100_AL_CARPET.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_AL_CARPET.a.jp
+- name: raw/obj/P_EX100_HTLF_BTL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_HTLF_BTL.a.jp
+- name: raw/obj/P_EX100_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM.a.jp
+- name: raw/obj/P_EX100_NM_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM_BTLF.a.jp
+- name: raw/obj/P_EX100_NM_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM_HTLF.a.jp
+- name: raw/obj/P_EX100_NM_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM_KH1F.a.jp
+- name: raw/obj/P_EX100_NM_MAGF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM_MAGF.a.jp
+- name: raw/obj/P_EX100_NM_TRIF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM_TRIF.a.jp
+- name: raw/obj/P_EX100_NM_ULTF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_NM_ULTF.a.jp
+- name: raw/obj/P_EX100_SIDECAR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_SIDECAR.a.jp
+- name: raw/obj/P_EX100_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR.a.jp
+- name: raw/obj/P_EX100_TR_LIGHTCYCLE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_LIGHTCYCLE.a.jp
+- name: raw/obj/P_EX100_TR_MAGF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_MAGF.a.jp
+- name: raw/obj/P_EX100_TR_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_KH1F.a.jp
+- name: raw/obj/P_EX100_TR_TRIF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_TRIF.a.jp
+- name: raw/obj/P_EX100_TR_ULTF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_ULTF.a.jp
+- name: raw/obj/P_EX100_TR_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_BTLF.a.jp
+- name: raw/obj/P_EX100_TR_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TR_HTLF.a.jp
+- name: raw/obj/P_EX100_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI.a.jp
+- name: raw/obj/P_EX100_WI_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI_BTLF.a.jp
+- name: raw/obj/P_EX100_WI_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI_HTLF.a.jp
+- name: raw/obj/P_EX100_WI_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI_KH1F.a.jp
+- name: raw/obj/P_EX100_WI_MAGF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI_MAGF.a.jp
+- name: raw/obj/P_EX100_WI_TRIF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI_TRIF.a.jp
+- name: raw/obj/P_EX100_WI_ULTF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_WI_ULTF.a.jp
+- name: raw/obj/P_EX100_XM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM.a.jp
+- name: raw/obj/P_EX100_XM_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM_BTLF.a.jp
+- name: raw/obj/P_EX100_XM_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM_HTLF.a.jp
+- name: raw/obj/P_EX100_XM_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM_KH1F.a.jp
+- name: raw/obj/P_EX100_XM_MAGF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM_MAGF.a.jp
+- name: raw/obj/P_EX100_XM_TRIF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM_TRIF.a.jp
+- name: raw/obj/P_EX100_XM_ULTF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_XM_ULTF.a.jp
+- name: raw/obj/P_EX110.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX110.a.jp
+- name: raw/obj/P_EX100_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA.a.jp
+- name: raw/obj/P_EX100_CA_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA_BTLF.a.jp
+- name: raw/obj/P_EX100_CA_MAGF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA_MAGF.a.jp
+- name: raw/obj/P_EX100_CA_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA_KH1F.a.jp
+- name: raw/obj/P_EX100_CA_TRIF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA_TRIF.a.jp
+- name: raw/obj/P_EX100_CA_ULTF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA_ULTF.a.jp
+- name: raw/obj/P_EX100_CA_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_CA_HTLF.a.jp
+- name: raw/obj/P_EX100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100.a.jp
+- name: raw/obj/P_EX100_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_BTLF.a.jp
+- name: raw/obj/P_EX100_MAGF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_MAGF.a.jp
+- name: raw/obj/P_EX100_KH1F.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_KH1F.a.jp
+- name: raw/obj/P_EX100_TRIF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_TRIF.a.jp
+- name: raw/obj/P_EX100_ULTF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_ULTF.a.jp
+- name: raw/obj/P_EX100_HTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX100_HTLF.a.jp
+- name: raw/obj/P_EX020_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_CA.a.jp
+- name: raw/obj/P_EX030_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_CA.a.jp
+- name: raw/obj/P_EX020_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX020_DC.a.jp
+- name: raw/obj/P_EX030_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX030_DC.a.jp
+- name: raw/obj/P_EX110_BTLF.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX110_BTLF.a.jp
+- name: raw/obj/P_EX120.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX120.a.jp
+- name: raw/obj/P_EX130.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX130.a.jp
+- name: raw/obj/P_EX200.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX200.a.jp
+- name: raw/obj/P_EX220.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX220.a.jp
+- name: raw/obj/P_EX230.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX230.a.jp
+- name: raw/obj/P_EX330.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX330.a.jp
+- name: raw/obj/P_EX340.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX340.a.jp
+- name: raw/obj/P_EX350.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX350.a.jp
+- name: raw/obj/P_EX360.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_EX360.a.jp
+- name: raw/obj/P_HE000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_HE000.a.jp
+- name: raw/obj/P_LK000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_LK000.a.jp
+- name: raw/obj/P_LK020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_LK020.a.jp
+- name: raw/obj/P_LK030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_LK030.a.jp
+- name: raw/obj/P_LK100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_LK100.a.jp
+- name: raw/obj/P_LM100.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_LM100.a.jp
+- name: raw/obj/P_MU000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_MU000.a.jp
+- name: raw/obj/P_MU010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_MU010.a.jp
+- name: raw/obj/P_NM000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_NM000.a.jp
+- name: raw/obj/P_NM000_SANTA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_NM000_SANTA.a.jp
+- name: raw/obj/P_TR000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_TR000.a.jp
+- name: raw/obj/P_WI020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_WI020.a.jp
+- name: raw/obj/P_WI030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/P_WI030.a.jp
+- name: raw/obj/SAVE_POINT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/SAVE_POINT.a.jp
+- name: raw/obj/SHOP_POINT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/SHOP_POINT.a.jp
+- name: raw/obj/SHOP_POINT_LOW.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/SHOP_POINT_LOW.a.jp
+- name: raw/obj/WM_CHECKER.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_CHECKER.a.jp
+- name: raw/obj/WM_CURSOR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_CURSOR.a.jp
+- name: raw/obj/WM_GUMI_01.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_GUMI_01.a.jp
+- name: raw/obj/WM_SYMBOL_AL.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_AL.a.jp
+- name: raw/obj/WM_SYMBOL_BB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_BB.a.jp
+- name: raw/obj/WM_SYMBOL_CA.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_CA.a.jp
+- name: raw/obj/WM_SYMBOL_DC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_DC.a.jp
+- name: raw/obj/WM_SYMBOL_EH.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_EH.a.jp
+- name: raw/obj/WM_SYMBOL_HB.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_HB.a.jp
+- name: raw/obj/WM_SYMBOL_HE.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_HE.a.jp
+- name: raw/obj/WM_SYMBOL_LK.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_LK.a.jp
+- name: raw/obj/WM_SYMBOL_LM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_LM.a.jp
+- name: raw/obj/WM_SYMBOL_MU.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_MU.a.jp
+- name: raw/obj/WM_SYMBOL_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_NM.a.jp
+- name: raw/obj/WM_SYMBOL_TT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WM_SYMBOL_TT.a.jp
+- name: raw/obj/WORLD_POINT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/WORLD_POINT.a.jp
+- name: raw/obj/W_AL000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_AL000.a.jp
+- name: raw/obj/W_BB000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_BB000.a.jp
+- name: raw/obj/W_CA000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_CA000.a.jp
+- name: raw/obj/W_CA000_HUMAN.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_CA000_HUMAN.a.jp
+- name: raw/obj/W_EH000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EH000.a.jp
+- name: raw/obj/W_EX000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX000.a.jp
+- name: raw/obj/W_EX010.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010.a.jp
+- name: raw/obj/W_EX010_00.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_00.a.jp
+- name: raw/obj/W_EX010_10.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_10.a.jp
+- name: raw/obj/W_EX010_10_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_10_NM.a.jp
+- name: raw/obj/W_EX010_10_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_10_TR.a.jp
+- name: raw/obj/W_EX010_10_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_10_WI.a.jp
+- name: raw/obj/W_EX010_20.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_20.a.jp
+- name: raw/obj/W_EX010_20_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_20_NM.a.jp
+- name: raw/obj/W_EX010_20_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_20_TR.a.jp
+- name: raw/obj/W_EX010_20_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_20_WI.a.jp
+- name: raw/obj/W_EX010_30.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_30.a.jp
+- name: raw/obj/W_EX010_30_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_30_NM.a.jp
+- name: raw/obj/W_EX010_30_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_30_TR.a.jp
+- name: raw/obj/W_EX010_30_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_30_WI.a.jp
+- name: raw/obj/W_EX010_40.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_40.a.jp
+- name: raw/obj/W_EX010_40_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_40_NM.a.jp
+- name: raw/obj/W_EX010_40_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_40_TR.a.jp
+- name: raw/obj/W_EX010_40_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_40_WI.a.jp
+- name: raw/obj/W_EX010_50.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_50.a.jp
+- name: raw/obj/W_EX010_50_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_50_NM.a.jp
+- name: raw/obj/W_EX010_50_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_50_TR.a.jp
+- name: raw/obj/W_EX010_50_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_50_WI.a.jp
+- name: raw/obj/W_EX010_60.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_60.a.jp
+- name: raw/obj/W_EX010_60_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_60_NM.a.jp
+- name: raw/obj/W_EX010_60_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_60_TR.a.jp
+- name: raw/obj/W_EX010_60_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_60_WI.a.jp
+- name: raw/obj/W_EX010_70.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_70.a.jp
+- name: raw/obj/W_EX010_70_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_70_NM.a.jp
+- name: raw/obj/W_EX010_70_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_70_TR.a.jp
+- name: raw/obj/W_EX010_70_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_70_WI.a.jp
+- name: raw/obj/W_EX010_80.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_80.a.jp
+- name: raw/obj/W_EX010_80_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_80_NM.a.jp
+- name: raw/obj/W_EX010_80_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_80_TR.a.jp
+- name: raw/obj/W_EX010_80_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_80_WI.a.jp
+- name: raw/obj/W_EX010_90.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_90.a.jp
+- name: raw/obj/W_EX010_90_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_90_NM.a.jp
+- name: raw/obj/W_EX010_90_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_90_TR.a.jp
+- name: raw/obj/W_EX010_90_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_90_WI.a.jp
+- name: raw/obj/W_EX010_A0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_A0.a.jp
+- name: raw/obj/W_EX010_A0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_A0_NM.a.jp
+- name: raw/obj/W_EX010_A0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_A0_TR.a.jp
+- name: raw/obj/W_EX010_A0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_A0_WI.a.jp
+- name: raw/obj/W_EX010_B0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_B0.a.jp
+- name: raw/obj/W_EX010_B0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_B0_NM.a.jp
+- name: raw/obj/W_EX010_B0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_B0_TR.a.jp
+- name: raw/obj/W_EX010_B0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_B0_WI.a.jp
+- name: raw/obj/W_EX010_C0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_C0.a.jp
+- name: raw/obj/W_EX010_C0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_C0_NM.a.jp
+- name: raw/obj/W_EX010_C0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_C0_TR.a.jp
+- name: raw/obj/W_EX010_C0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_C0_WI.a.jp
+- name: raw/obj/W_EX010_D0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_D0.a.jp
+- name: raw/obj/W_EX010_D0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_D0_NM.a.jp
+- name: raw/obj/W_EX010_D0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_D0_TR.a.jp
+- name: raw/obj/W_EX010_D0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_D0_WI.a.jp
+- name: raw/obj/W_EX010_E0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_E0.a.jp
+- name: raw/obj/W_EX010_E0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_E0_NM.a.jp
+- name: raw/obj/W_EX010_E0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_E0_TR.a.jp
+- name: raw/obj/W_EX010_E0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_E0_WI.a.jp
+- name: raw/obj/W_EX010_F0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_F0.a.jp
+- name: raw/obj/W_EX010_F0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_F0_NM.a.jp
+- name: raw/obj/W_EX010_F0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_F0_TR.a.jp
+- name: raw/obj/W_EX010_F0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_F0_WI.a.jp
+- name: raw/obj/W_EX010_G0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_G0.a.jp
+- name: raw/obj/W_EX010_G0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_G0_NM.a.jp
+- name: raw/obj/W_EX010_G0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_G0_TR.a.jp
+- name: raw/obj/W_EX010_G0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_G0_WI.a.jp
+- name: raw/obj/W_EX010_H0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_H0.a.jp
+- name: raw/obj/W_EX010_H0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_H0_NM.a.jp
+- name: raw/obj/W_EX010_H0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_H0_TR.a.jp
+- name: raw/obj/W_EX010_H0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_H0_WI.a.jp
+- name: raw/obj/W_EX010_J0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_J0.a.jp
+- name: raw/obj/W_EX010_J0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_J0_NM.a.jp
+- name: raw/obj/W_EX010_J0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_J0_TR.a.jp
+- name: raw/obj/W_EX010_J0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_J0_WI.a.jp
+- name: raw/obj/W_EX010_K0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_K0.a.jp
+- name: raw/obj/W_EX010_K0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_K0_NM.a.jp
+- name: raw/obj/W_EX010_K0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_K0_TR.a.jp
+- name: raw/obj/W_EX010_K0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_K0_WI.a.jp
+- name: raw/obj/W_EX010_M0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_M0.a.jp
+- name: raw/obj/W_EX010_M0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_M0_NM.a.jp
+- name: raw/obj/W_EX010_M0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_M0_TR.a.jp
+- name: raw/obj/W_EX010_M0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_M0_WI.a.jp
+- name: raw/obj/W_EX010_N0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_N0.a.jp
+- name: raw/obj/W_EX010_N0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_N0_NM.a.jp
+- name: raw/obj/W_EX010_N0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_N0_TR.a.jp
+- name: raw/obj/W_EX010_N0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_N0_WI.a.jp
+- name: raw/obj/W_EX010_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_NM.a.jp
+- name: raw/obj/W_EX010_P0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_P0.a.jp
+- name: raw/obj/W_EX010_P0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_P0_NM.a.jp
+- name: raw/obj/W_EX010_P0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_P0_TR.a.jp
+- name: raw/obj/W_EX010_P0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_P0_WI.a.jp
+- name: raw/obj/W_EX010_R0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_R0.a.jp
+- name: raw/obj/W_EX010_R0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_R0_NM.a.jp
+- name: raw/obj/W_EX010_R0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_R0_TR.a.jp
+- name: raw/obj/W_EX010_R0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_R0_WI.a.jp
+- name: raw/obj/W_EX010_ROXAS_DARK.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_ROXAS_DARK.a.jp
+- name: raw/obj/W_EX010_ROXAS_LIGHT.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_ROXAS_LIGHT.a.jp
+- name: raw/obj/W_EX010_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_TR.a.jp
+- name: raw/obj/W_EX010_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX010_WI.a.jp
+- name: raw/obj/W_EX020.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020.a.jp
+- name: raw/obj/W_EX020_10.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_10.a.jp
+- name: raw/obj/W_EX020_10_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_10_NM.a.jp
+- name: raw/obj/W_EX020_10_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_10_TR.a.jp
+- name: raw/obj/W_EX020_10_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_10_WI.a.jp
+- name: raw/obj/W_EX020_20.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_20.a.jp
+- name: raw/obj/W_EX020_20_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_20_NM.a.jp
+- name: raw/obj/W_EX020_20_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_20_TR.a.jp
+- name: raw/obj/W_EX020_20_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_20_WI.a.jp
+- name: raw/obj/W_EX020_30.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_30.a.jp
+- name: raw/obj/W_EX020_30_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_30_NM.a.jp
+- name: raw/obj/W_EX020_30_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_30_TR.a.jp
+- name: raw/obj/W_EX020_30_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_30_WI.a.jp
+- name: raw/obj/W_EX020_40.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_40.a.jp
+- name: raw/obj/W_EX020_40_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_40_NM.a.jp
+- name: raw/obj/W_EX020_40_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_40_TR.a.jp
+- name: raw/obj/W_EX020_40_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_40_WI.a.jp
+- name: raw/obj/W_EX020_50.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_50.a.jp
+- name: raw/obj/W_EX020_50_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_50_NM.a.jp
+- name: raw/obj/W_EX020_50_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_50_TR.a.jp
+- name: raw/obj/W_EX020_50_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_50_WI.a.jp
+- name: raw/obj/W_EX020_60.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_60.a.jp
+- name: raw/obj/W_EX020_60_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_60_NM.a.jp
+- name: raw/obj/W_EX020_60_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_60_TR.a.jp
+- name: raw/obj/W_EX020_60_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_60_WI.a.jp
+- name: raw/obj/W_EX020_70.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_70.a.jp
+- name: raw/obj/W_EX020_70_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_70_NM.a.jp
+- name: raw/obj/W_EX020_70_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_70_TR.a.jp
+- name: raw/obj/W_EX020_70_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_70_WI.a.jp
+- name: raw/obj/W_EX020_80.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_80.a.jp
+- name: raw/obj/W_EX020_80_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_80_NM.a.jp
+- name: raw/obj/W_EX020_80_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_80_TR.a.jp
+- name: raw/obj/W_EX020_80_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_80_WI.a.jp
+- name: raw/obj/W_EX020_90.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_90.a.jp
+- name: raw/obj/W_EX020_90_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_90_NM.a.jp
+- name: raw/obj/W_EX020_90_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_90_TR.a.jp
+- name: raw/obj/W_EX020_90_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_90_WI.a.jp
+- name: raw/obj/W_EX020_94.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_94.a.jp
+- name: raw/obj/W_EX020_94_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_94_NM.a.jp
+- name: raw/obj/W_EX020_94_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_94_TR.a.jp
+- name: raw/obj/W_EX020_94_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_94_WI.a.jp
+- name: raw/obj/W_EX020_A0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A0.a.jp
+- name: raw/obj/W_EX020_A0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A0_NM.a.jp
+- name: raw/obj/W_EX020_A0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A0_TR.a.jp
+- name: raw/obj/W_EX020_A0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A0_WI.a.jp
+- name: raw/obj/W_EX020_A4.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A4.a.jp
+- name: raw/obj/W_EX020_A4_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A4_NM.a.jp
+- name: raw/obj/W_EX020_A4_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A4_TR.a.jp
+- name: raw/obj/W_EX020_A4_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_A4_WI.a.jp
+- name: raw/obj/W_EX020_B0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B0.a.jp
+- name: raw/obj/W_EX020_B0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B0_NM.a.jp
+- name: raw/obj/W_EX020_B0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B0_TR.a.jp
+- name: raw/obj/W_EX020_B0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B0_WI.a.jp
+- name: raw/obj/W_EX020_B4.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B4.a.jp
+- name: raw/obj/W_EX020_B4_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B4_NM.a.jp
+- name: raw/obj/W_EX020_B4_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B4_TR.a.jp
+- name: raw/obj/W_EX020_B4_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_B4_WI.a.jp
+- name: raw/obj/W_EX020_C0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C0.a.jp
+- name: raw/obj/W_EX020_C0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C0_NM.a.jp
+- name: raw/obj/W_EX020_C0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C0_TR.a.jp
+- name: raw/obj/W_EX020_C0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C0_WI.a.jp
+- name: raw/obj/W_EX020_C4.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C4.a.jp
+- name: raw/obj/W_EX020_C4_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C4_NM.a.jp
+- name: raw/obj/W_EX020_C4_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C4_TR.a.jp
+- name: raw/obj/W_EX020_C4_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C4_WI.a.jp
+- name: raw/obj/W_EX020_C8.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C8.a.jp
+- name: raw/obj/W_EX020_C8_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C8_NM.a.jp
+- name: raw/obj/W_EX020_C8_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C8_TR.a.jp
+- name: raw/obj/W_EX020_C8_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_C8_WI.a.jp
+- name: raw/obj/W_EX020_CC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CC.a.jp
+- name: raw/obj/W_EX020_CC_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CC_NM.a.jp
+- name: raw/obj/W_EX020_CC_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CC_TR.a.jp
+- name: raw/obj/W_EX020_CC_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CC_WI.a.jp
+- name: raw/obj/W_EX020_CG.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CG.a.jp
+- name: raw/obj/W_EX020_CG_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CG_NM.a.jp
+- name: raw/obj/W_EX020_CG_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CG_TR.a.jp
+- name: raw/obj/W_EX020_CG_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_CG_WI.a.jp
+- name: raw/obj/W_EX020_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_NM.a.jp
+- name: raw/obj/W_EX020_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_TR.a.jp
+- name: raw/obj/W_EX020_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_WI.a.jp
+- name: raw/obj/W_EX020_Y0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX020_Y0.a.jp
+- name: raw/obj/W_EX030.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030.a.jp
+- name: raw/obj/W_EX030_10.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_10.a.jp
+- name: raw/obj/W_EX030_10_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_10_NM.a.jp
+- name: raw/obj/W_EX030_10_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_10_TR.a.jp
+- name: raw/obj/W_EX030_10_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_10_WI.a.jp
+- name: raw/obj/W_EX030_20.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_20.a.jp
+- name: raw/obj/W_EX030_20_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_20_NM.a.jp
+- name: raw/obj/W_EX030_20_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_20_TR.a.jp
+- name: raw/obj/W_EX030_20_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_20_WI.a.jp
+- name: raw/obj/W_EX030_30.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_30.a.jp
+- name: raw/obj/W_EX030_30_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_30_NM.a.jp
+- name: raw/obj/W_EX030_30_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_30_TR.a.jp
+- name: raw/obj/W_EX030_30_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_30_WI.a.jp
+- name: raw/obj/W_EX030_40.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_40.a.jp
+- name: raw/obj/W_EX030_40_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_40_NM.a.jp
+- name: raw/obj/W_EX030_40_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_40_TR.a.jp
+- name: raw/obj/W_EX030_40_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_40_WI.a.jp
+- name: raw/obj/W_EX030_50.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_50.a.jp
+- name: raw/obj/W_EX030_50_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_50_NM.a.jp
+- name: raw/obj/W_EX030_50_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_50_TR.a.jp
+- name: raw/obj/W_EX030_50_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_50_WI.a.jp
+- name: raw/obj/W_EX030_60.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_60.a.jp
+- name: raw/obj/W_EX030_60_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_60_NM.a.jp
+- name: raw/obj/W_EX030_60_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_60_TR.a.jp
+- name: raw/obj/W_EX030_60_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_60_WI.a.jp
+- name: raw/obj/W_EX030_70.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_70.a.jp
+- name: raw/obj/W_EX030_70_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_70_NM.a.jp
+- name: raw/obj/W_EX030_70_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_70_TR.a.jp
+- name: raw/obj/W_EX030_70_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_70_WI.a.jp
+- name: raw/obj/W_EX030_80.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_80.a.jp
+- name: raw/obj/W_EX030_80_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_80_NM.a.jp
+- name: raw/obj/W_EX030_80_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_80_TR.a.jp
+- name: raw/obj/W_EX030_80_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_80_WI.a.jp
+- name: raw/obj/W_EX030_84.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_84.a.jp
+- name: raw/obj/W_EX030_84_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_84_NM.a.jp
+- name: raw/obj/W_EX030_84_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_84_TR.a.jp
+- name: raw/obj/W_EX030_84_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_84_WI.a.jp
+- name: raw/obj/W_EX030_90.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_90.a.jp
+- name: raw/obj/W_EX030_90_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_90_NM.a.jp
+- name: raw/obj/W_EX030_90_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_90_TR.a.jp
+- name: raw/obj/W_EX030_90_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_90_WI.a.jp
+- name: raw/obj/W_EX030_A0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A0.a.jp
+- name: raw/obj/W_EX030_A0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A0_NM.a.jp
+- name: raw/obj/W_EX030_A0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A0_TR.a.jp
+- name: raw/obj/W_EX030_A0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A0_WI.a.jp
+- name: raw/obj/W_EX030_A4.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A4.a.jp
+- name: raw/obj/W_EX030_A4_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A4_NM.a.jp
+- name: raw/obj/W_EX030_A4_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A4_TR.a.jp
+- name: raw/obj/W_EX030_A4_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_A4_WI.a.jp
+- name: raw/obj/W_EX030_B0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B0.a.jp
+- name: raw/obj/W_EX030_B0_LK.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B0_LK.a.jp
+- name: raw/obj/W_EX030_B0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B0_NM.a.jp
+- name: raw/obj/W_EX030_B0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B0_TR.a.jp
+- name: raw/obj/W_EX030_B0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B0_WI.a.jp
+- name: raw/obj/W_EX030_B4.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B4.a.jp
+- name: raw/obj/W_EX030_B4_LK.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B4_LK.a.jp
+- name: raw/obj/W_EX030_B4_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B4_NM.a.jp
+- name: raw/obj/W_EX030_B4_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B4_TR.a.jp
+- name: raw/obj/W_EX030_B4_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_B4_WI.a.jp
+- name: raw/obj/W_EX030_C0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C0.a.jp
+- name: raw/obj/W_EX030_C0_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C0_NM.a.jp
+- name: raw/obj/W_EX030_C0_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C0_TR.a.jp
+- name: raw/obj/W_EX030_C0_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C0_WI.a.jp
+- name: raw/obj/W_EX030_C4.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C4.a.jp
+- name: raw/obj/W_EX030_C4_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C4_NM.a.jp
+- name: raw/obj/W_EX030_C4_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C4_TR.a.jp
+- name: raw/obj/W_EX030_C4_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C4_WI.a.jp
+- name: raw/obj/W_EX030_C8.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C8.a.jp
+- name: raw/obj/W_EX030_C8_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C8_NM.a.jp
+- name: raw/obj/W_EX030_C8_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C8_TR.a.jp
+- name: raw/obj/W_EX030_C8_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_C8_WI.a.jp
+- name: raw/obj/W_EX030_CC.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CC.a.jp
+- name: raw/obj/W_EX030_CC_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CC_NM.a.jp
+- name: raw/obj/W_EX030_CC_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CC_TR.a.jp
+- name: raw/obj/W_EX030_CC_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CC_WI.a.jp
+- name: raw/obj/W_EX030_CG.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CG.a.jp
+- name: raw/obj/W_EX030_CG_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CG_NM.a.jp
+- name: raw/obj/W_EX030_CG_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CG_TR.a.jp
+- name: raw/obj/W_EX030_CG_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_CG_WI.a.jp
+- name: raw/obj/W_EX030_NM.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_NM.a.jp
+- name: raw/obj/W_EX030_TR.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_TR.a.jp
+- name: raw/obj/W_EX030_WI.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_WI.a.jp
+- name: raw/obj/W_EX030_Y0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_Y0.a.jp
+- name: raw/obj/W_EX030_Z0.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX030_Z0.a.jp
+- name: raw/obj/W_EX200.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_EX200.a.jp
+- name: raw/obj/W_HE000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_HE000.a.jp
+- name: raw/obj/W_LK000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_LK000.a.jp
+- name: raw/obj/W_MU000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_MU000.a.jp
+- name: raw/obj/W_NM000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_NM000.a.jp
+- name: raw/obj/W_TR000.a.jp
+  package: kh2_first
+  method: copy
+  source:
+    - name: obj/W_TR000.a.jp
 
 # === Dual Audio - Voices [BATTLE] ===
 
@@ -96954,3 +101485,113 @@ assets:
   method: copy
   source:
     - name: remastered/obj/B_EX140.a.jp/se/obj/se320
+
+- name: raw/obj/F_EX030_HB.a.jp
+  method: copy
+  source:
+  - name: obj/F_EX030_HB.a.jp
+
+- name: raw/obj/P_EX020_CM.a.jp
+  method: copy
+  source:
+  - name: obj/P_EX020_CM.a.jp
+- name: raw/obj/P_EX030_CM.a.jp
+  method: copy
+  source:
+  - name: obj/P_EX030_CM.a.jp
+
+- name: raw/obj/W_EX010_00.a.jp
+  multi:
+  - name: raw/obj/W_EX010_00_NM.a.jp
+  - name: raw/obj/W_EX010_00_TR.a.jp
+  - name: raw/obj/W_EX010_00_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_00.a.jp
+- name: raw/obj/W_EX010_U0.a.jp
+  multi:
+  - name: raw/obj/W_EX010_U0_NM.a.jp
+  - name: raw/obj/W_EX010_U0_TR.a.jp
+  - name: raw/obj/W_EX010_U0_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_U0.a.jp
+- name: raw/obj/W_EX010_V0.a.jp
+  multi:
+  - name: raw/obj/W_EX010_V0_NM.a.jp
+  - name: raw/obj/W_EX010_V0_TR.a.jp
+  - name: raw/obj/W_EX010_V0_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_V0.a.jp
+- name: raw/obj/W_EX010_W0.a.jp
+  multi:
+  - name: raw/obj/W_EX010_W0_NM.a.jp
+  - name: raw/obj/W_EX010_W0_TR.a.jp
+  - name: raw/obj/W_EX010_W0_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_W0.a.jp
+- name: raw/obj/W_EX010_X0.a.jp
+  multi:
+  - name: raw/obj/W_EX010_X0_NM.a.jp
+  - name: raw/obj/W_EX010_X0_TR.a.jp
+  - name: raw/obj/W_EX010_X0_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_X0.a.jp
+- name: raw/obj/W_EX010_Y0.a.jp
+  multi:
+  - name: raw/obj/W_EX010_Y0_NM.a.jp
+  - name: raw/obj/W_EX010_Y0_TR.a.jp
+  - name: raw/obj/W_EX010_Y0_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_Y0.a.jp
+- name: raw/obj/W_EX010_Z0.a.jp
+  multi:
+  - name: raw/obj/W_EX010_Z0_NM.a.jp
+  - name: raw/obj/W_EX010_Z0_TR.a.jp
+  - name: raw/obj/W_EX010_Z0_WI.a.jp
+  method: copy
+  source:
+  - name: obj/W_EX010_Z0.a.jp
+
+- name: raw/obj/F_EX040_PRF.a.jp
+  multi:
+  - name: raw/obj/F_EX060_PRF.a.jp
+  method: copy
+  source:
+  - name: obj/F_EX040_XXX.a.jp
+
+- name: raw/obj/F_EX030_ABL.a.jp
+  multi:
+  - name: raw/obj/F_EX030_EQP.a.jp
+  - name: raw/obj/F_EX030_FRM.a.jp
+  - name: raw/obj/F_EX030_JK2.a.jp
+  - name: raw/obj/F_EX030_MAG.a.jp
+  - name: raw/obj/F_EX030_PAG.a.jp
+  - name: raw/obj/F_EX030_REP.a.jp
+  - name: raw/obj/F_EX030_SMN.a.jp
+  - name: raw/obj/F_EX030_STA.a.jp
+  - name: raw/obj/F_EX030_VST.a.jp
+  - name: raw/obj/F_EX030_WEP.a.jp
+  - name: raw/obj/F_EX050_ABL.a.jp
+  - name: raw/obj/F_EX050_EQP.a.jp
+  - name: raw/obj/F_EX050_FRM.a.jp
+  - name: raw/obj/F_EX050_JK2.a.jp
+  - name: raw/obj/F_EX050_MAG.a.jp
+  - name: raw/obj/F_EX050_PAG.a.jp
+  - name: raw/obj/F_EX050_REP.a.jp
+  - name: raw/obj/F_EX050_SMN.a.jp
+  - name: raw/obj/F_EX050_STA.a.jp
+  - name: raw/obj/F_EX050_VST.a.jp
+  - name: raw/obj/F_EX050_WEP.a.jp
+  method: copy
+  source:
+  - name: obj/F_EX030_XXX.a.jp
+
+- name: raw/obj/F_CZ240.a.jp
+  method: copy
+  source:
+  - name: obj/F_CZ240.a.jp
